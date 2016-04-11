@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alpha1px", "alpha1px\alpha1px.csproj", "{FC5BAA04-17B6-4D66-93EA-ED222EA31FCB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{CE2D25E1-2F99-44FC-BFF0-88E1733DAD30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5BAA04-17B6-4D66-93EA-ED222EA31FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5BAA04-17B6-4D66-93EA-ED222EA31FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5BAA04-17B6-4D66-93EA-ED222EA31FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5BAA04-17B6-4D66-93EA-ED222EA31FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2D25E1-2F99-44FC-BFF0-88E1733DAD30}.Debug|Any CPU.ActiveCfg = Debug
+		{CE2D25E1-2F99-44FC-BFF0-88E1733DAD30}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
